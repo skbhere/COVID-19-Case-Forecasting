@@ -7,3 +7,5 @@
 ![Certification](https://github.com/skbhere/Simple-forecast-predicion-for-Covid-19-/blob/master/predict%2017.7.2020/India%20Doubling%20Rate.png)
 ## Tamil Nadu Doubling rate Until 22.7.2020
 ![Certification](https://github.com/skbhere/Simple-forecast-predicion-for-Covid-19-/blob/master/predict%2017.7.2020/TN%20Doubling%20Rate.png)
+## Madurai Doubling rate Until 22.7.2020
+![Certification](https://github.com/skbhere/Simple-forecast-predicion-for-Covid-19-/blob/master/predict%2017.7.2020/Madurai%20Urban%20Doubling%20Rate.png)
